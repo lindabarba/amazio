@@ -10,11 +10,10 @@ export default class Index extends React.Component {
     badBoys.push(this.props.route.pages[1]);
     let content = badBoys.map((item) => (
         <tr>
-          <td>{item.data.title}</td>
+          <td><Link to={item.data.path}>{item.data.title}</Link></td>
           <td>{item.data.price}</td>
           <td>{item.data.description}</td>
           <td>{item.data.sku}</td>
-          <td><Link to={item.data.path}>{item.data.title}</Link></td>
         </tr>
       ))
     return (
