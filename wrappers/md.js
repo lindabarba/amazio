@@ -24,7 +24,7 @@ export default class Markdown extends React.Component {
           data-item-image={post.image}
           data-item-name={post.title}
           data-item-description={post.description}
-          data-item-url={"http://localhost:8000" + post.path}>
+          data-item-url={"http://bookkeeper-addition-41004.netlify.com/" + post.path}>
           Buy
         </a>
       </div>
