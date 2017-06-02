@@ -13,6 +13,6 @@ The shirt (not to be confused with the short) is an aphrodisiac worn by male hum
 <br>
 <br>
 <br>
-<img src="http://i.imgur.com/raZUV6F.jpg" height="500" width="500">
+<img src="http://i.imgur.com/raZUV6F.jpg" height="300" width="300">
 <br>
 Only $7!

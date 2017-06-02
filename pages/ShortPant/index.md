@@ -2,7 +2,7 @@
 title: Short Pants
 layout: post
 
-id: "2"
+id: "3"
 image: "http://i.imgur.com/IAvvl9V.jpg"
 price: 7.00
 path: "/shortpants/"
@@ -13,6 +13,6 @@ The shortpants (not to be confused with the long-sleeve shirt) is an aphrodisiac
 <br>
 <br>
 <br>
-<img src="http://i.imgur.com/IAvvl9V.jpg" height="500" width="500">
+<img src="http://i.imgur.com/IAvvl9V.jpg" height="300" width="300">
 <br>
 Only $7!

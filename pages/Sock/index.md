@@ -2,7 +2,7 @@
 title: Socks
 layout: post
 
-id: "2"
+id: "4"
 image: "http://i.imgur.com/Qs5ktQe.jpg"
 price: 7.00
 path: "/sock/"
@@ -13,6 +13,6 @@ The sock (not to be confused with the glove) is an aphrodisiac worn by male huma
 <br>
 <br>
 <br>
-<img src="http://i.imgur.com/Qs5ktQe.jpg" height="500" width="500">
+<img src="http://i.imgur.com/Qs5ktQe.jpg" height="300" width="300">
 <br>
 Only $7!
