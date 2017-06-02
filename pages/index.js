@@ -14,6 +14,18 @@ export default class Index extends React.Component {
           <td>{item.data.price}</td>
           <td>{item.data.description}</td>
           <td>{item.data.sku}</td>
+          <td><a
+                   href='#'
+                   className='snipcart-add-item'
+                   data-item-id={item.data.id}
+                   data-item-price={item.data.price}
+                   data-item-image={item.data.image}
+                   data-item-name={item.data.title}
+                   data-item-description={item.data.description}
+                   data-item-url={"http://bookkeeper-addition-41004.netlify.com" + item.data.path}>
+                   Buy
+             </a>
+           </td>
         </tr>
       ))
     return (
