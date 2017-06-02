@@ -3,7 +3,7 @@ title: Hat
 layout: post
 
 id: "2"
-image: "/hat.jpg"
+image: "http://i.imgur.com/bmWxnE4.jpg"
 price: 7.00
 path: "/hat/"
 sku: 001
