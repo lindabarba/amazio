@@ -3,7 +3,7 @@ title: Shirt
 layout: post
 
 id: "2"
-image: "/shirt.jpg"
+image: "http://i.imgur.com/raZUV6F.jpg"
 price: 7.00
 path: "/shirt/"
 sku: 001

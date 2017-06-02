@@ -3,7 +3,7 @@ title: Short Pants
 layout: post
 
 id: "2"
-image: "/shortpants.jpg"
+image: "http://i.imgur.com/IAvvl9V.jpg"
 price: 7.00
 path: "/shortpants/"
 sku: 001

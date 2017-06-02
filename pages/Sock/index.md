@@ -3,7 +3,7 @@ title: Socks
 layout: post
 
 id: "2"
-image: "/sock.jpg"
+image: "http://i.imgur.com/Qs5ktQe.jpg"
 price: 7.00
 path: "/sock/"
 sku: 001

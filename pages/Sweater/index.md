@@ -3,7 +3,7 @@ title: Sweater
 layout: post
 
 id: "2"
-image: "/sweater.jpg"
+image: "http://i.imgur.com/WwUdAtp.jpg"
 price: 7.00
 path: "/sweater/"
 sku: 001
