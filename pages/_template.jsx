@@ -23,7 +23,7 @@ export default class Template extends React.Component {
         />
         <div
           style={{
-            background: `rebeccapurple`,
+            background: `#0d47a1`,
             marginBottom: rhythm(1),
           }}
         >
@@ -42,7 +42,7 @@ export default class Template extends React.Component {
                   textDecoration: "none",
                 }}
               >
-                Gatsby
+                AMAZIO
               </Link>
             </h1>
           </div>

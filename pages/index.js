@@ -8,12 +8,24 @@ export default class Index extends React.Component {
   render() {
     return (
       <div>
-        <h1>
-          Hi people
-        </h1>
-        <p>Welcome to your new Gatsby site.</p>
-        <p>Now go build something great.</p>
-        <Link to={prefixLink('/hat/')}>Go to hat</Link>
+        <table>
+          <thead>
+            <tr>
+              <th>Item Name</th>
+              <th>Price</th>
+              <th>Description</th>
+              <th>SKU</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><Link to={prefixLink('/hat/')}>hat</Link></td>
+              <td>$7</td>
+              <td>Cool hat</td>
+              <td>001</td>
+            </tr>
+          </tbody>
+        </table>
       </div>
     )
   }

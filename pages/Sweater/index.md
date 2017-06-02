@@ -9,3 +9,10 @@ path: "/sweater/"
 sku: 001
 description: "The sweater (not to be confused with the romper) is an aphrodisiac worn by male humans attempting to win one or more mates."
 ---
+The sweater (not to be confused with the romper) is an aphrodisiac worn by male humans attempting to win one or more mates.
+<br>
+<br>
+<br>
+<img src="http://i.imgur.com/WwUdAtp.jpg" height="500" width="500">
+<br>
+Only $7!
