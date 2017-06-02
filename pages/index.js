@@ -6,6 +6,17 @@ import { config } from 'config'
 
 export default class Index extends React.Component {
   render() {
+    let badBoys = this.props.route.pages.slice(4,8);
+    badBoys.push(this.props.route.pages[1]);
+    let content = badBoys.map((item) => (
+        <tr>
+          <td>{item.data.title}</td>
+          <td>{item.data.price}</td>
+          <td>{item.data.description}</td>
+          <td>{item.data.sku}</td>
+          <td><Link to={item.data.path}>{item.data.title}</Link></td>
+        </tr>
+      ))
     return (
       <div>
         <table>
@@ -18,12 +29,7 @@ export default class Index extends React.Component {
             </tr>
           </thead>
           <tbody>
-            <tr>
-              <td><Link to={prefixLink('/hat/')}>hat</Link></td>
-              <td>$7</td>
-              <td>Cool hat</td>
-              <td>001</td>
-            </tr>
+            {content}
           </tbody>
         </table>
       </div>
