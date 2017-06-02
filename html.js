@@ -49,7 +49,7 @@ export default class HTML extends React.Component {
           <script src={prefixLink(`/bundle.js?t=${BUILD_TIME}`)} />
           <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.css" rel="stylesheet" />
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-                <script type="text/javascript" id="snipcart" data-api-key="NzUzOTlmODAtM2NiMS00ZjRjLTkyMDAtODk4MGQ5M2I2YTUxNjM2MzIwMjE0NjA2MzY1MzY5"></script>
+                <script type="text/javascript" id="snipcart" data-api-key="NzUzOTlmODAtM2NiMS00ZjRjLTkyMDAtODk4MGQ5M2I2YTUxNjM2MzIwMjE0NjA2MzY1MzY5" src="https://cdn.snipcart.com/scripts/snipcart.js"></script>
         </body>
       </html>
     )
